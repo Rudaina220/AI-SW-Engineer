@@ -15,7 +15,3 @@ It uses **Groq + LLM agents** to:
 * Detect and fix failing tests
 * Review the changes
 * Commit and push the finished code to GitHub
-
-**In one sentence for your CV:**
-
-> Built an autonomous AI Software Engineer Agent using Groq LLMs that analyzes repositories, plans and implements features, runs and debugs tests, reviews code, and automates Git-based deployment workflows.
